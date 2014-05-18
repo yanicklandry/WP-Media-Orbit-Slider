@@ -10,7 +10,9 @@ WordPress plugin to use Orbit Image Slider (from Zurb Foundation) with media ite
 == Description ==
 WordPress plugin to use Orbit Image Slider (from Zurb Foundation) with media items.
 
-This plugin is different from other existing plugins with the fact that it integrates only with O
+This plugin is different from other existing plugins with the fact that it integrates only with only integrates with media items (images and captions). If you search for a more general plugin, try WP Orbit Slider :
+
+https://wordpress.org/plugins/wp-orbit-slider/
 
 This plugin does not include the required Foundation framework (from Zurb). It supposes that Foundation is installed in the theme, for example with the excellent FoundationPress theme :
 
