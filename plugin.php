@@ -90,8 +90,6 @@ function media_orbit_slider_shortcode( $atts ) {
   }
   $html .= '</ul>';
 
-  //$return = print_r($object, true);
-
   return($html);
 }
 add_shortcode( 'media_orbit_slider', 'media_orbit_slider_shortcode' );
